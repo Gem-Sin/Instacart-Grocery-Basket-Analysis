@@ -25,6 +25,28 @@ Instacart, an online grocery retailer, required exploratory analysis of customer
 
 ● How do ordering habits differ among various customer profiles?
 
+# Data & Tools
+
+# Datasets
+
+The following datasets were used in the project and are from “The Instacart Online Grocery Shopping
+Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017: via Kaggle 27.05.2025
+
+● Orders
+
+● Products
+
+● Departments
+
+● Orders_Products_Prior
+
+● Customers (created by Career Foundry for educational purpose)
+
+# Tools
+
+
+
+
 # Folders
 
 Description of the contents of the Instacart Project Folder
