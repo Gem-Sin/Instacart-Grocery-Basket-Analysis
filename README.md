@@ -1,7 +1,9 @@
 # Instacart-Grocery-Basket-Analysis
 # Project Summary
 
-Instacart, an online grocery retailer, required exploratory analysis of customer and sales data. Instacart performs well in terms of sales, however, stakeholders seek deeper insights into customer purchasing behaviour to support a more targeted marketing approach. This analysis focused on understanding customer segmentation and identifying distinct shopping patterns. The goal is to inform strategies that enable Instacart to deliver personalised marketing campaigns tailored to specific customer profiles, ultimately improving sales performance and customer engagement. Note: Instacart is a real company who shares its data online. However this project was part of a Career Foundry Achievement and the customer dataset used was provided by Career Foundry and is fictitious. 
+Instacart, an online grocery retailer, required exploratory analysis of customer and sales data. Instacart performs well in terms of sales, however, stakeholders seek deeper insights into customer purchasing behaviour to support a more targeted marketing approach. This analysis focused on understanding customer segmentation and identifying distinct shopping patterns. The goal is to inform strategies that enable Instacart to deliver personalised marketing campaigns tailored to specific customer profiles, ultimately improving sales performance and customer engagement. 
+
+Disclaimer: Instacart is a real company who shares its data online. However this project was part of a Career Foundry Achievement and the customer dataset used was provided by Career Foundry and is fictitious. 
 
 # Key Questions
 
