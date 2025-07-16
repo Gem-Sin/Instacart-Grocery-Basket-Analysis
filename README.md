@@ -25,8 +25,6 @@ Instacart, an online grocery retailer, required exploratory analysis of customer
 
 ● How do ordering habits differ among various customer profiles?
 
-# Data & Tools
-
 # Datasets
 
 The following datasets were used in the project and are from “The Instacart Online Grocery Shopping
