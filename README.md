@@ -64,7 +64,7 @@ Description of the contents of the Instacart Project Folder
 
 ● 01 Project Management: Contains the project brief.
 
-● 02 Data: Contains two subfolders: 
+● 02 Data: Contains two subfolders: (This folder is not included as the datasets are too large)
 
       'Original Data': Original datasets.
 
