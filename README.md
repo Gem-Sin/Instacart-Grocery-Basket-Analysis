@@ -42,8 +42,19 @@ Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017:
 
 # Tools
 
+Python code was used and was executed in Jupyter Notebook.
 
+The following libraries were used:
 
+●  Pandas: for data analysis
+
+●  NumPy: for mathematical equations
+
+●  Seaborn: for data visualisations
+
+●  Matplotlib: for data visualisations
+
+●  Scipy: for mathematical equations 
 
 # Folders
 
