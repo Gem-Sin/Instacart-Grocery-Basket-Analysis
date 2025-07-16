@@ -72,6 +72,6 @@ Description of the contents of the Instacart Project Folder
 
 ● 03 Scripts: Python code written in Jupyter Notebook
 
-● 04 Analysis: Contains Reports and Test Files, both empty. Contains Visualisations folder which includes the visualisations used for exploratory analysis and explaining insights.
+● 04 Analysis: Contains Reports and Test Files, both empty, removed when uploaded. Contains Visualisations folder which includes the visualisations used for exploratory analysis and explaining insights.
 
 ● 05 Sent to Client: Contains final Excel report
