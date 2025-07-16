@@ -1,2 +1,44 @@
 # Instacart-Grocery-Basket-Analysis
-Python code for Instacart Grocery Basket Analysis
+# Project Summary
+
+Instacart, an online grocery retailer, required exploratory analysis of customer and sales data. Instacart performs well in terms of sales, however, stakeholders seek deeper insights into customer purchasing behaviour to support a more targeted marketing approach. This analysis focused on understanding customer segmentation and identifying distinct shopping patterns. The goal is to inform strategies that enable Instacart to deliver personalised marketing campaigns tailored to specific customer profiles, ultimately improving sales performance and customer engagement
+
+# Key Questions
+
+● What are the busiest days of the week and busiest hours of the day?
+
+● What time do customers spend the most money?
+
+● What recommendations can simplify price range groupings to better guide marketing efforts?
+
+● Are there certain types of products that are more popular than others?
+
+● How often do customers return to Insacart?
+
+● Do ordering habits vary based on a customer’s loyalty status?
+
+● Are there differences in ordering habits based on a customer’s region?
+
+● Is there a connection between age and family status regarding ordering habits?
+
+● What classifications can be derived from demographic information, such as income, age,  types of goods, and family status?
+
+● How do ordering habits differ among various customer profiles?
+
+# Folders
+
+Description of the contents of the Instacart Project Folder
+
+● 01 Project Management: Contains the project brief.
+
+● 02 Data: Contains two subfolders: 
+
+      'Original Data': Original datasets.
+
+      'Prepared Data': Cleaned data ready for analysis.
+
+● 03 Scripts: Python code written in Jupyter Notebook
+
+● 04 Analysis: Contains Reports and Test Files, both empty. Contains Visualisations folder which includes the visualisations used for exploratory analysis and explaining insights.
+
+● 05 Sent to Client: Contains final Excel report
